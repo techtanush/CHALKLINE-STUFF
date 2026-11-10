@@ -1,6 +1,6 @@
 # Recording 3 — Closing Slides (Pages 4–7)
 
-Recorded November 9, 2026 at 9:42 PM Pacific.
+Recorded November 9, 2026 at 9:49 PM Pacific.
 
 - [Screen recording](recording-03-closing-slides-screen.webm)
 - [Webcam and microphone recording](recording-03-closing-slides-webcam.webm)
