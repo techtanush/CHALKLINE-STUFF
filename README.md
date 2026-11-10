@@ -1,0 +1,8 @@
+# Chalkline recordings
+
+Original screen and webcam recordings from November 9, 2026 at 9:20 PM Pacific.
+
+- [Screen recording](recordings/2026-11-09/11_9_2026%2C%209_20_14%20PM%20-%20Screen%20-%20Video%20Project%204.webm)
+- [Webcam recording](recordings/2026-11-09/11_9_2026%2C%209_20_14%20PM%20-%20Webcam%20-%20Video%20Project%204.webm)
+
+The original files are preserved without conversion. File sizes and SHA-256 checksums are in [the manifest](recordings/2026-11-09/manifest.json).
