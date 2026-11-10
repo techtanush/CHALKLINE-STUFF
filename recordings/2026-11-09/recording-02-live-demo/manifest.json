@@ -1,0 +1,19 @@
+{
+  "recording": 2,
+  "title": "Live demo \u2014 pause/resume and voice interruption",
+  "recordedLocalTime": "2026-11-09 21:51:16 America/Los_Angeles",
+  "files": [
+    {
+      "file": "recording-02-live-demo-screen.webm",
+      "originalFile": "11_9_2026, 9_51_16 PM - Screen - Video Project 4.webm",
+      "bytes": 3561258,
+      "sha256": "8d61bcd8d1adc2a34cf258ccb982fa0fcacc8cf69e9c46a114333743ed5a744a"
+    },
+    {
+      "file": "recording-02-live-demo-webcam.webm",
+      "originalFile": "11_9_2026, 9_51_16 PM - Webcam - Video Project 4.webm",
+      "bytes": 34490788,
+      "sha256": "cf41d434346402d10125961b9b31cf1b2362b82b6dc7206236dd22deb40b68bb"
+    }
+  ]
+}

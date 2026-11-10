@@ -10,3 +10,7 @@ The original files are preserved without conversion. File sizes and SHA-256 chec
 ## Recording 3 — Closing Slides
 
 [Open Recording 3: pages 4–7](recordings/2026-11-09/recording-03-closing-slides-pages-04-07/) — how it works, results, still open, and end card. Includes separate screen and webcam files.
+
+## Recording 2 — Live Demo
+
+[Open Recording 2: live demo](recordings/2026-11-09/recording-02-live-demo/) — worked example, pause/resume, and a spoken interruption. Includes separate screen and webcam files.
