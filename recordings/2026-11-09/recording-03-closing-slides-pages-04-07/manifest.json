@@ -1,0 +1,19 @@
+{
+  "recording": 3,
+  "title": "Closing slides \u2014 deck pages 4\u20137",
+  "recordedLocalTime": "2026-11-09 21:42:10 America/Los_Angeles",
+  "files": [
+    {
+      "file": "recording-03-closing-slides-screen.webm",
+      "originalFile": "11_9_2026, 9_42_10 PM - Screen - Video Project 4.webm",
+      "bytes": 690433,
+      "sha256": "e941a6d83ea3cc872e7262e3100247dcc3eb8527965db09f757deaaa82af4b0d"
+    },
+    {
+      "file": "recording-03-closing-slides-webcam.webm",
+      "originalFile": "11_9_2026, 9_42_10 PM - Webcam - Video Project 4.webm",
+      "bytes": 55282408,
+      "sha256": "1d5b9f1e76014bd44ad4ba0187f2a59207e75b58f72f5a10b9fc070f44ce79c7"
+    }
+  ]
+}
