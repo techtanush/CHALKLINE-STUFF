@@ -14,3 +14,7 @@ The original files are preserved without conversion. File sizes and SHA-256 chec
 ## Recording 2 — Live Demo
 
 [Open Recording 2: live demo](recordings/2026-11-09/recording-02-live-demo/) — worked example, pause/resume, and a spoken interruption. Includes separate screen and webcam files.
+
+## Additional audio recording
+
+[Download the audio recording](recordings/2026-11-09/audio-recording/chalkline-audio-recording.m4a). Original M4A preserved without conversion.
